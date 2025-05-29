@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       qt_version:
-        default: '6.8.1'
+        default: '6.9.0'
         required: true
         type: string
         description: 'qt_version'
